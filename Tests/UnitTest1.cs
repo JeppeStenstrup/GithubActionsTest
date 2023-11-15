@@ -12,13 +12,16 @@ namespace Tests
         }
 
         [Test]
-        public void Test1()
+        public void PassingTest()
         {
-            var result1 = demo.Add(1, 1);
-            Assert.That(result1, Is.EqualTo(2));
-
-            var result2 = demo.Add(1, 1);
-            Assert.That(result2, Is.EqualTo(5));
+            var result = demo.Add(1, 1);
+            Assert.That(result, Is.EqualTo(2));
+        }
+        [Test]
+        public void FailingTest()
+        {
+            var result = demo.Add(1, 1);
+            Assert.That(result, Is.EqualTo(5));
         }
     }
 }
