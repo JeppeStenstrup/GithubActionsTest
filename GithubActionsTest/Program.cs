@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using GithubActionsTest;
+
+var demo = new DemoClass();
+Console.WriteLine(demo.Add(1, 2));
