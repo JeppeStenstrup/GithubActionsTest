@@ -1,0 +1,14 @@
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\bin\Debug\net6.0\GithubActionsTest.exe
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\bin\Debug\net6.0\GithubActionsTest.deps.json
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\bin\Debug\net6.0\GithubActionsTest.runtimeconfig.json
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\bin\Debug\net6.0\GithubActionsTest.dll
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\bin\Debug\net6.0\GithubActionsTest.pdb
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\GithubActionsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\GithubActionsTest.AssemblyInfoInputs.cache
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\GithubActionsTest.AssemblyInfo.cs
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\GithubActionsTest.csproj.CoreCompileInputs.cache
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\GithubActionsTest.dll
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\refint\GithubActionsTest.dll
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\GithubActionsTest.pdb
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\GithubActionsTest.genruntimeconfig.cache
+C:\Users\Jepst\source\repos\GithubActionsTest\GithubActionsTest\obj\Debug\net6.0\ref\GithubActionsTest.dll
