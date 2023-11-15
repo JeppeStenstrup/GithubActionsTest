@@ -14,8 +14,11 @@ namespace Tests
         [Test]
         public void Test1()
         {
-            var result = demo.Add(1, 1);
-            Assert.That(result, Is.EqualTo(2));
+            var result1 = demo.Add(1, 1);
+            Assert.That(result1, Is.EqualTo(2));
+
+            var result2 = demo.Add(1, 1);
+            Assert.That(result2, Is.EqualTo(5));
         }
     }
 }
